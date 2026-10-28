@@ -1,5 +1,5 @@
 [llm]
-model = "gemma4:31b"
+model = "gemma3"
 api_key = "sk-1234"
 base_url = "http://localhost:11434/v1/chat/completions"
 max_tokens = 32768  # Reasoning models (deepseek, qwen3, gpt-5, o-series) spend most of this on hidden
